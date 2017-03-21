@@ -14,15 +14,15 @@
  */
  
  return array (
-  'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!' => 'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!',
-  'Are you still sure you want to remove this zone? There is no coming back after you do it!' => 'Are you still sure you want to remove this zone? There is no coming back after you do it!',
-  'View zones' => 'View zones',
-  'Zones' => 'Zones',
-  'Create new zone' => 'Create new zone',
-  'Update zone' => 'Update zone',
-  'Confirm zone removal' => 'Confirm zone removal',
-  'Zone' => 'Zone',
-  'Country' => 'Country',
-  'Name' => 'Name',
-  'Code' => 'Code',
+  'Please note that removing this zone will also remove every record that depends on it, such as taxes, customer companies, etc!' => 'Пожалуйста, обратите внимание, что удаляя эту зону повлечет за собой удаление каждой записи, которая к ней относится (напр. налоги, компании клиента и т. д.)!',
+  'Are you still sure you want to remove this zone? There is no coming back after you do it!' => 'Вы действительно хотите удалить эту зону? Пути обратно не будет!!',
+  'View zones' => 'Просмотреть зоны',
+  'Zones' => 'Зоны',
+  'Create new zone' => 'Создать новую зону',
+  'Update zone' => 'Редактировать зону',
+  'Confirm zone removal' => 'Подтвердите удаление зоны',
+  'Zone' => 'Зона',
+  'Country' => 'Страна',
+  'Name' => 'Имя',
+  'Code' => 'Код',
 );
