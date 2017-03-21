@@ -14,5 +14,5 @@
  */
  
  return array (
-  'Forgot password?' => 'Forgot password?',
+  'Forgot password?' => 'Забыли пароль?',
 );

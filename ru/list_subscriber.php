@@ -14,5 +14,5 @@
  */
  
  return array (
-  'Update subscriber' => 'Update subscriber',
+  'Update subscriber' => 'Редактировать подписчика',
 );

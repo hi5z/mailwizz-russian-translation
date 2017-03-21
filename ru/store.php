@@ -14,7 +14,7 @@
  */
  
  return array (
-  'Buy now!' => 'Buy now!',
-  'View store items' => 'View store items',
-  'Store items' => 'Store items',
+  'Buy now!' => 'Купить!',
+  'View store items' => 'Просмотреть все товары',
+  'Store items' => 'Товары',
 );
